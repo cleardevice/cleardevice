@@ -1,16 +1,14 @@
-## Hi there 👋
+## Tech Stack
+- Programming languages: Java, NodeJs, Go, PHP, Python.
+- Databases: PostgreSQL, MySQL, MongoDB, Redis, Oracle.
+- Working with APIs: RESTful API, GraphQL, microservice architecture.
+- Development tools: Docker, Kubernetes, Git, Makefile, CI/CD (GitLab, GitHub Actions, Jenkins).
+- Cloud platforms: AWS, Google Cloud Platform (GCP), or Oracle Cloud Infrastructure (OCI).
+- Methodologies: Agile, Scrum, Kanban.
 
-<!--
-**cleardevice/cleardevice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![cleardevice's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleardevice&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleardevice&layout=compact)](https://github.com/cleardevice/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LeetCode Readme Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sha13?ext=heatmap)
